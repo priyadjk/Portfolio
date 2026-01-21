@@ -1,0 +1,7 @@
+{
+  "name": "Elite Portfolio Pro",
+  "description": "A high-end, professional portfolio template featuring an integrated Gemini AI assistant to showcase projects, skills, and career achievements with an interactive twist.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
